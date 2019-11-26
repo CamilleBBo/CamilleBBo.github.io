@@ -1,0 +1,19 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+color: #4dc3fe;
+text-decoration: underline;
+}
+
+button {
+background-color: #4dc3fe;
+border: none;
+border-radius: 10px;
+padding: 10px 40px;
+color: blue;
+font-weight: 500;
+
+
+}
