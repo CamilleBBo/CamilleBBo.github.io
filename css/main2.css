@@ -100,7 +100,7 @@ h2.figures-title {
   font-family: 'Roboto Mono', monospace;
   font-size: 30px;
   text-align: center;
-  line-height: 45px;
+  line-height: 55px;
   letter-spacing: -2%;
 }
 
@@ -125,5 +125,6 @@ h2.figures-title {
   display: block;
   font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
+
 
 }
